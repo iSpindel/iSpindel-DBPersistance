@@ -1,0 +1,28 @@
+{
+  "name": "ispindel-dbpersistance",
+  "version": "0.1.0",
+  "description": "MQQT Sub Clinet to persit data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulivee/iSpindel-DBPersistance.git"
+  },
+  "keywords": [
+    "MQTT",
+    "iSpindel"
+  ],
+  "author": "Thomas Tacke <thomas@tacke.email>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yulivee/iSpindel-DBPersistance/issues"
+  },
+  "homepage": "https://github.com/yulivee/iSpindel-DBPersistance#readme",
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.4",
+    "mqtt": "^3.0.0"
+  }
+}
